@@ -1,6 +1,6 @@
-# Breeze Weather API Documentation
+# Brizz Weather API Documentation
 
-The Breeze Weather API provides endpoints for fetching weather data and forecasts. It offers real-time weather updates, 14-day weather forecasts, and weather alerts.
+The Brizz Weather API provides endpoints for fetching weather data and forecasts. It offers real-time weather updates, 14-day weather forecasts, and weather alerts.
 
 ## Endpoints
 
