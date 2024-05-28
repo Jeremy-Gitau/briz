@@ -11,10 +11,17 @@ Brizz is a Flutter weather application designed to provide users with real-time 
 
 ## Screenshots
 
-**Location Permission** <img width="311" alt="permission" src="https://github.com/Jeremy-Gitau/briz/assets/56400436/c3ed8b28-4db5-4437-89ca-39bed0d7f7bd">
-[Loading while fetching data]<img width="224" alt="load" src="https://github.com/Jeremy-Gitau/briz/assets/56400436/fb833bd1-c7a1-4a51-9441-d1b984c06dfd">
-[Home page]<img width="216" alt="home" src="https://github.com/Jeremy-Gitau/briz/assets/56400436/7cf1dca0-0a23-46fb-8b50-f2aa718fbc80">
-[14 day forecast]<img width="213" alt="scroll" src="https://github.com/Jeremy-Gitau/briz/assets/56400436/902f75de-a51b-451f-9139-edb4981bfe43">
+**Location Permission**  
+![Location Permission](https://github.com/Jeremy-Gitau/briz/assets/56400436/c3ed8b28-4db5-4437-89ca-39bed0d7f7bd)
+
+**Loading while Fetching Data**  
+![Loading while Fetching Data](https://github.com/Jeremy-Gitau/briz/assets/56400436/fb833bd1-c7a1-4a51-9441-d1b984c06dfd)
+
+**Home Page**  
+![Home Page](https://github.com/Jeremy-Gitau/briz/assets/56400436/7cf1dca0-0a23-46fb-8b50-f2aa718fbc80)
+
+**14-Day Forecast**  
+![14-Day Forecast](https://github.com/Jeremy-Gitau/briz/assets/56400436/902f75de-a51b-451f-9139-edb4981bfe43)
 
 
 ## Setup
